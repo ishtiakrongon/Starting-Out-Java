@@ -1,3 +1,5 @@
+package Chapter_2_Java_Fundamentals;
+
 public class CastVar {
     
     public static void main(String[] args) {
