@@ -20,6 +20,8 @@ public class Division {
         System.out.print("Enter another number: ");
         b = inputValue.nextDouble();
 
+        inputValue.close();
+
         if (b == 0) {
 
             System.out.println("Division by zero is not possible.");

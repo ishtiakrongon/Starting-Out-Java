@@ -27,6 +27,8 @@ public class AverageScore {
         System.out.println("Enter Score #3: ");
         score3 = keyboard.nextDouble();
 
+        keyboard.close();
+
         // Calculate the average score
         average = (score1 + score2 + score3) / 3.0;
 
