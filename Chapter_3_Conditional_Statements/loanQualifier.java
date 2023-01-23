@@ -31,6 +31,10 @@ public class LoanQualifier {
                 System.out.print("You must have been on your current job for at least two years to qualify.");    
             }
         }
+        else
+        {
+            System.out.println("You must earn at least $30,000 per years to qualify.");
+        }
     }
 
 }
