@@ -12,6 +12,7 @@ public class SwitchDemo {
         // Get one of the numbers 1, 2, or 3 from the user.
         System.out.print("Enter 1, 2 or 3: ");
         number = keyboard.nextInt();
+        keyboard.close();
 
         // Determine the number entered.
         switch (number)
