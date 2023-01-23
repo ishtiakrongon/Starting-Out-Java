@@ -47,7 +47,7 @@ public class TestAverage1 {
             
 
             // Closing the input
-            
+            keyboard.close();
 
         }   while (repeat == 'Y' || repeat == 'y');
     }
