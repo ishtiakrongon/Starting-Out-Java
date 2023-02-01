@@ -19,4 +19,4 @@ Objects are very important in Java. Here are some examples of objects that you h
 
 **A CLASS IS NOT AN OBJECT, BUT A DESCRIPTION OF AN OBJECT**
 
-When a program is running, it can use the class to create, in memory, as many objects of a specific type as needed. Each object that is created from a class is called an instance of the class.
+When a program is running, it can use the class to create, in memory, as many objects of a specific type as needed. Each object that is created from a class is called an *instance* of the class.
