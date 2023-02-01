@@ -6,6 +6,7 @@ public class scoreGrade {
     
     public static void main(String[] args) {
 
+        // input method for java
         Scanner keyboard = new Scanner(System.in);
 
         System.out.println("Enter test score of 1st subject: ");
