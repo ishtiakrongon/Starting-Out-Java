@@ -17,4 +17,29 @@ public class Rectangle {
 
     }
 
+    /*
+     * The setWidth method stores a value in the width field.
+     * @ parameter w The value to store in width.
+     */
+
+    public void setWidth(double w) {
+
+        width = w;
+
+    }
+
+    /*
+     * The getWidth method returns a Rectangle object's width.
+     */
+    public double getWidth() {
+        return width;
+    }
+
+    /*
+     * The getLength method returns a Rectangle object's length
+     */
+
+    public double getLength() {
+        return length;
+    }
 }
