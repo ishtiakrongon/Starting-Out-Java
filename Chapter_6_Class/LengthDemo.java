@@ -1,4 +1,4 @@
-import Chapter_6_Class.Rectangle;
+package Chapter_6_Class;
 
 /*
  * This program demonstrates the Rectangle class's setLength method.
