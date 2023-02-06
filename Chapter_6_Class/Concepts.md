@@ -20,3 +20,12 @@ Objects are very important in Java. Here are some examples of objects that you h
 **A CLASS IS NOT AN OBJECT, BUT A DESCRIPTION OF AN OBJECT**
 
 When a program is running, it can use the class to create, in memory, as many objects of a specific type as needed. Each object that is created from a class is called an *instance* of the class.
+
+---
+### Instance Fields and Methods
+
+**CONCEPT:-** Each instance of a class has its own set of fields, which are known as instance fields. You can create several instances of a class and store different values in each instance's fields. The methods that operate on an instance of a class are known as instance methods.
+
+#### Constructors
+
+**CONCEPT:-** A constructor is a method that is automatically called when an object is created.
