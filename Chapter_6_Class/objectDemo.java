@@ -1,4 +1,4 @@
-package Chapter_6_Class;
+
 import java.util.Scanner;
 import java.util.Random;
 import java.io.*;   // Needed for file I/O classes
