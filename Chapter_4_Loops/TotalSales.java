@@ -33,7 +33,6 @@ public class TotalSales {
         // Display the total sales.
 
         System.out.printf("The total sales are $%,.2f", totalSales);
-        keyboard.close();
     }
 
 }
