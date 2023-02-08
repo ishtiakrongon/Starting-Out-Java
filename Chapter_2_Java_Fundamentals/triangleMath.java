@@ -19,6 +19,9 @@ public class triangleMath {
         System.out.println("Enter the value of y: ");
         y = keyboard.nextDouble();
 
+        z = Math.sqrt((x * x) + (y * y));
+        System.out.println("The Hypotenuse is: " + z);
+
         keyboard.close();
 
     }
