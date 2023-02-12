@@ -15,7 +15,7 @@ public class TotalSales {
         days = keyboard.nextInt();
 
         // close input
-        // keyboard.close();
+         keyboard.close();
 
         // Set the accumalator to 0.
         totalSales = 0.0;
