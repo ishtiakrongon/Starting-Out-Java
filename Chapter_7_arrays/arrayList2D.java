@@ -6,7 +6,7 @@ public class arrayList2D {
     
     public static void main(String[] args) {
 
-        ArrayList<ArrayList<String>> groceryList = new ArrayList();
+        ArrayList<ArrayList<String>> groceryList = new ArrayList<>();
 
         ArrayList<String> backerylist = new ArrayList<String>();
         backerylist.add("pasta");
