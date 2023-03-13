@@ -1,5 +1,6 @@
 package Chapter_6_Class;
 
+// CONSTRUCTOR, CLASS, METHODS, OBJECTS are all together
 
 class Vehicles {
 
