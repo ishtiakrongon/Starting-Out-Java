@@ -8,7 +8,7 @@ public class ArrayDemo {
 
         // Declaring an array integers
 
-        int [] myArray;
+        int[] myArray;
 
         // Intializing an array with 10 elements. Also creating a new array object
 
